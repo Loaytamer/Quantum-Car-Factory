@@ -44,7 +44,6 @@ The `Main` class demonstrates:
 - Max speed cap at 200 km/h
 - Engine replacement
 
-These scenarios match the output in `output.txt`.
 
 ## Run
 
